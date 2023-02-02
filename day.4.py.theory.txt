@@ -1,0 +1,10 @@
+*Mutable:can be changed after ctreation.
+LIST[]
+SET{}
+DICTIONARY{:}
+*Immutable:cant be chnged after creation.
+INT
+FLOAT
+STRING(names)
+BOOL(true or false)
+TUPLE()
