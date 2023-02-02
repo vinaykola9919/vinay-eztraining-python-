@@ -1,0 +1,30 @@
+append()-add an element to the end of the list-l.append(4)
+extend()-add all the elements of a list to the another list-l.extend([39,56,98])
+insert()-insert an item -l.insert(1,22)-1-index
+remove()-l.remove(1)
+pop()-removes and returns an  element at given index-l.pop(-5)
+clear()-clears all the elements in the list-l.clear(1,2,5)
+index()-l.index()
+count()-l.count()
+sort()-l.sort()
+reverse()-l.reverse()
+copy()-l.copy()
+
+
+
+*Dictionary contains elements with two units-keys and values
+*keys must ben unique
+
+#===
+
+l=[1,4,7.4,"sam"]
+print(l)
+print(l[3])
+print(l[2:3])
+print(l[2:4])
+print(l[0:])
+print(l[:3])
+print(l[-1])
+print(l[::-1])
+#=====
+ 
