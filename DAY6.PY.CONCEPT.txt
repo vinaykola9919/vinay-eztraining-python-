@@ -1,0 +1,21 @@
+*EXCEPTION HANDLING:
+
+when there is a exception,the developer does not want disturbance in the program flow.To achieve this we are using 
+exception  handling.         
+
+
+****OOPS(OBJECTS ORIENTED PROGRAMMING LANGUAGES):
+*It is an efficient used in all object oriented languages  like java and python.
+*for multiple reasons we use oops concepts for example:code resuability,data security,hiding data.
+
+*CLASSES:
+        Its a blue print.example:birds,laptops.
+*OBJECTS:
+        Its a thing created based on class.
+*NOTE   :
+        one class can have multiple objects.
+*examples:
+       1.Birds is a class
+         parrot,peacock,crow are objects.
+       2.Laptop is a class
+         lenovo,dell,hp are objects.
