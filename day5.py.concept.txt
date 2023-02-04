@@ -1,0 +1,24 @@
+z-dir(list)
+print(z)
+#print all the functions of the list
+
+               FUNCTIONS
+*CLASIFICATIONS:
+1.pure defined
+2.user defined
+
+For code resuability,we use functions:we want to use a particular concept multiple times in our program instead of writing
+the same code many times we can write it once,include that inside a function and can call the function wherever we need it.
+
+
+*TYPES:
+1.Functions without arguments,without return value
+2.Functions without arguments,with return value
+3.Functions with arguments,with return value
+4.Functions with arguments,without return value
+
+
+***
+#A function  which calls itself is called
+#Recursive function
+#This process is called "recursion"
